@@ -6,6 +6,9 @@ import os
 import PySimpleGUI as sg
 import sys
 
+###############################
+# Feito para ajudar meu irmão #
+###############################
 
 
 def entrar_na_aula():
